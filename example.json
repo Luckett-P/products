@@ -1,0 +1,108 @@
+{
+	"products": [
+		{
+			"product": "Samsung Galaxy Watch 3 45mm (Black)",
+			"description": "Seemless connectivity",
+			"originalPrice": "",
+			"currentPrice": "600",
+			"click": "https://www.jbhifi.com.au/products/samsung-galaxy-watch-3-45mm-black",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/440608-Product-0-I-637320742268191559_1000x1000.jpg"
+		},
+		{
+			"product": "Live Loud True Wireless Earbuds",
+			"description": "Up to 12 Hours Playtime With Case",
+			"originalPrice": "79.95",
+			"currentPrice": "49.95",
+			"click": "https://www.jbhifi.com.au/products/jam-live-loud-in-ear-true-wireless-earbuds",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/408973-Product-2-I_7fd44a01-329a-4d5b-b448-69193612f0af_1000x1000.jpg"
+		}
+		,
+		{
+			"product": "Galaxy Tab A 10.1inch Wifi 128gb",
+			"description": "",
+			"originalPrice": "469",
+			"currentPrice": "399",
+			"click": "https://www.jbhifi.com.au/products/samsung-galaxy-tab-a-10-1-wi-fi-128gb-black-2019",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/382174-Product-0-I_05bde0bf-17f8-4f7c-b0f1-ab15870618cd_1000x1000.jpg"
+		}
+		,
+		{
+			"product": "Expansion 4TB Portable Hard Drive",
+			"description": "",
+			"originalPrice": "",
+			"currentPrice": "159",
+			"click": "https://www.jbhifi.com.au/products/seagate-expansion-portable-hard-drive-4tb",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/982857-Product-0-I_1000x1000.jpg"
+		}
+		,
+		{
+			"product": "Video Doorbell 3 Plus",
+			"description": "Pre-Roll Technology - Start recording before you even receive an alert",
+			"originalPrice": "369",
+			"currentPrice": "299",
+			"click": "https://www.jbhifi.com.au/products/ring-video-doorbell-3-plus",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/409588-Product-0-I-637217827246583443_e2f1e773-ac44-4818-abcf-a8c1d0031893_1000x1000.jpg"
+		}
+		,
+		{
+			"product": "75 inch 8K QLED HDR Smart LED LCD",
+			"description": "Direct Full Array Elite Backlighting",
+			"originalPrice": "5995",
+			"currentPrice": "5095",
+			"click": "https://www.jbhifi.com.au/products/samsung-q800t-75-qled-ultra-hd-8k-smart-tv-2020",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/434310-Product-0-I-637212595877594342_large.jpg"
+		},
+		{
+			"product": "Samsung Galaxy Watch 3 45mm (Black)",
+			"description": "Seemless connectivity",
+			"originalPrice": "",
+			"currentPrice": "600",
+			"click": "https://www.jbhifi.com.au/products/samsung-galaxy-watch-3-45mm-black",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/440608-Product-0-I-637320742268191559_1000x1000.jpg"
+		},
+		{
+			"product": "Live Loud True Wireless Earbuds",
+			"description": "Up to 12 Hours Playtime With Case",
+			"originalPrice": "79.95",
+			"currentPrice": "49.95",
+			"click": "https://www.jbhifi.com.au/products/jam-live-loud-in-ear-true-wireless-earbuds",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/408973-Product-2-I_7fd44a01-329a-4d5b-b448-69193612f0af_1000x1000.jpg"
+		}
+		,
+		{
+			"product": "Galaxy Tab A 10.1inch Wifi 128gb",
+			"description": "",
+			"originalPrice": "469",
+			"currentPrice": "399",
+			"click": "https://www.jbhifi.com.au/products/samsung-galaxy-tab-a-10-1-wi-fi-128gb-black-2019",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/382174-Product-0-I_05bde0bf-17f8-4f7c-b0f1-ab15870618cd_1000x1000.jpg"
+		}
+		,
+		{
+			"product": "Expansion 4TB Portable Hard Drive",
+			"description": "",
+			"originalPrice": "",
+			"currentPrice": "159",
+			"click": "https://www.jbhifi.com.au/products/seagate-expansion-portable-hard-drive-4tb",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/982857-Product-0-I_1000x1000.jpg"
+		}
+		,
+		{
+			"product": "Video Doorbell 3 Plus",
+			"description": "Pre-Roll Technology - Start recording before you even receive an alert",
+			"originalPrice": "369",
+			"currentPrice": "299",
+			"click": "https://www.jbhifi.com.au/products/ring-video-doorbell-3-plus",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/409588-Product-0-I-637217827246583443_e2f1e773-ac44-4818-abcf-a8c1d0031893_1000x1000.jpg"
+		}
+		,
+		{
+			"product": "75 inch 8K QLED HDR Smart LED LCD",
+			"description": "Direct Full Array Elite Backlighting",
+			"originalPrice": "5995",
+			"currentPrice": "5095",
+			"click": "https://www.jbhifi.com.au/products/samsung-q800t-75-qled-ultra-hd-8k-smart-tv-2020",
+			"image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/434310-Product-0-I-637212595877594342_large.jpg"
+		}
+	]
+}
